@@ -1,0 +1,14 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+main{flex-grow: 1;
+    margin: 30px;}
+
+    
+
+
+.bg-pink{background-color: rgb(40, 201, 0);}
